@@ -1,4 +1,4 @@
-#AD5933 USB COMMUNICATION
+# AD5933 USB COMMUNICATION
 
 For simplify the AD5933 development board communication was chosen to do all the communication just in the USB port, just like the programm demo made by Analog Devices.
 
