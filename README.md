@@ -12,13 +12,15 @@ a biblioteca DLL na maioria dos foruns e repositorios está incorreta sua declar
 - ver novamente o erro para mostrar a defirenca e por o arquivo errado se possivel
 
 por fonte dos pipelines do USB no windows
-<link rel="stylesheet" type="text/css" href="https://docs.microsoft.com/en-us/windows-hardware/drivers/usbcon/usb-endpoints-and-their-pipes"> 
+
+https://docs.microsoft.com/en-us/windows-hardware/drivers/usbcon/usb-endpoints-and-their-pipes
 
 ## Clock Sharing
 
 For two boards measuring it must have a shared clock to work properly, 
 
 IMAGE PHASE RIGHT
+
 IMAGE PHASE WRONG
 
 Phase 
