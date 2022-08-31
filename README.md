@@ -1,8 +1,8 @@
 # AD5933 USB COMMUNICATION
-<!--
-POR CITACAO AO ARTIGO (AINDA EM PROCESSO DE PUBLICACAO)
 
-For simplify the AD5933 development board communication was chosen to do all the communication just in the USB port, just like the programm demo made by Analog Devices.
+<!-- POR CITACAO AO ARTIGO (AINDA EM PROCESSO DE PUBLICACAO) -->
+
+Simplificando the communication for AD5933 development board,  all communication were made in the USB port, like the programm demo made by Analog Devices.
 
 This C++ project was made for my final year project and it should have some portuguese comments in it, if there is any questions fell free to ask.
 
