@@ -1,6 +1,6 @@
 # AD5933 USB COMMUNICATION
-<!--
-POR CITACAO AO ARTIGO (AINDA EM PROCESSO DE PUBLICACAO)
+
+<!-- POR CITACAO AO ARTIGO (AINDA EM PROCESSO DE PUBLICACAO) -->
 
 For simplify the AD5933 development board communication was chosen to do all the communication just in the USB port, just like the programm demo made by Analog Devices.
 
@@ -31,4 +31,4 @@ IMAGE PHASE RIGHT
 
 IMAGE PHASE WRONG
 
-Phase -->
+Phase
