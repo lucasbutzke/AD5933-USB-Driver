@@ -21,7 +21,7 @@ por fonte dos pipelines do USB no windows
 
 https://docs.microsoft.com/en-us/windows-hardware/drivers/usbcon/usb-endpoints-and-their-pipes
 
-## Clock Sharing for Two Boards
+## Clock Sharing on Two Boards
 
 I used two boards for voltage and current measuring in my analog interface, it's hard do to and the demo programm comes with wrong DLL files that doesn't work for more that one board. After a lot of time researching in Analog Device's foruns I found the correct DLL file with the correct functions declarations in it.
 
