@@ -10,7 +10,7 @@ This C++ project was made for my final year project and it should have some port
 
 This IC is controlled by a I2C interface, on the development board this bus is conected to an I2C to USB converter. If the board is powered by the PC so is more confortable to use the USB to only use one cable. This development kit comes with a demo programm to make tests, that progamm have some DLL files to download the firmware to the board and also communicate. 
 
-## DLL Explanation
+## DLL Functions
 
 Funtions and callings
 
@@ -31,4 +31,4 @@ IMAGE PHASE RIGHT
 
 IMAGE PHASE WRONG
 
-Phase -->
+Phase
